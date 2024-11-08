@@ -61,10 +61,12 @@ git clone https://github.com/akiroussama/pingpongchat
 Assurez-vous d'utiliser **Visual Studio Code (VSCode)** pour ce projet. Si vous ne l'avez pas encore, téléchargez-le et
 installez-le depuis le site officiel :
  [Télécharger VSCode](https://code.visualstudio.com/)
+
 ---
 ### **3. Installez l'extension VSCode 'Clash of Code' **
 Dans VSCode, rendez-vous dans le gestionnaire d'extensions (**CTRL + SHIFT + X**) et installez l'extension nommée
 **Clash of Code**. Cette extension est essentielle pour notre activité ! 
+
 ---
 ### **4. Installez les dépendances du projet **
 Ouvrez un terminal dans VSCode (**Terminal > Nouveau terminal**) et exécutez la commande suivante pour installer
